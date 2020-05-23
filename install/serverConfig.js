@@ -22,13 +22,13 @@
 
 const serverConfig = {
     env: "development",
-    mongodbBinPath: "C:/mongodb/mongodb/bin/",
+    mongodbBinPath: "/usr/local/mongodb/mongodb-4.2.7/bin/",
     dbIP: "127.0.0.1",
     dbPort: "27017",
     dbName: "doracms2",
     dbUserName: "",
     dbPassword: "",
-    os: "Windows",
+    os: "Linux",
     domain: "http://127.0.0.1:8080",
     port: 8080,
     tbAgent: "1",
